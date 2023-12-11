@@ -18,7 +18,7 @@ This data analysis project aims to provide insights into the customer behavior a
 
 
 ## Data sources
-The primary dataset used for this analysis is in the "SHG_data.csv" file. The "Data" Excel sheet inside the "SHG_dashboard.xls" file is the cleaned and manipulated dataset used for further analysis and dashboard construction. It contains detailed information about each booking made by the guests. This comprehensive dataset comprises of 119,391 rows and 21 columns after initial data cleaning and manipulation. If you need further explanations about entries and attributes, please refer to the "Data dictionary" sheet in the "SHG_dashboard.xls" file.
+The primary dataset used for this analysis is in the "SHG_data.csv" file. The "Data" Excel sheet inside the "SHG_dashboard.xls" file is the cleaned and manipulated dataset used for further analysis and dashboard construction. It contains detailed information about each booking made by the guests. This comprehensive dataset comprises of 119,391 rows and 21 columns after initial data cleaning and manipulation. If you need further explanations about entries and attributes, please refer to the "Data Dictionary" sheet in the "SHG_dashboard.xls" file. Additional sheets comprehend supporting pivot tables.
 
 ### Tools
 - Microsoft Excel: data cleaning, manipulation, EDA, and interactive dashboard construction
