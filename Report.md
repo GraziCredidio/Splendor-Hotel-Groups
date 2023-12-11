@@ -18,7 +18,7 @@ This data analysis project aims to provide insights into the customer behavior a
 
 
 ## Data sources
-The primary dataset used for this analysis is in the "SHG_data.csv" file. The "Data" Excel sheet inside the "SHG_dashboard.xls" file is the cleaned and manipulated dataset used for further analysis. It contains detailed information about each booking made by the guests. This comprehensive dataset comprises of 119,391 rows and 21 columns after initial data cleaning and manipulation.
+The primary dataset used for this analysis is in the "SHG_data.csv" file. The "Data" Excel sheet inside the "SHG_dashboard.xls" file is the cleaned and manipulated dataset used for further analysis and dashboard construction. It contains detailed information about each booking made by the guests. This comprehensive dataset comprises of 119,391 rows and 21 columns after initial data cleaning and manipulation. If you need further explanations about entries and attributes, please refer to the "Data dictionary" sheet in the "SHG_dashboard.xls" file.
 
 ### Tools
 - Microsoft Excel: data cleaning, manipulation, EDA, and interactive dashboard construction
@@ -39,13 +39,14 @@ The years 2016 and 2017 contributed the most to the January high demand seen in 
 
 The overall average lead time was 104 days. Bookings made through offline travel agents showed the highest lead time (135 days). Contract guests typically book rooms more in advance (142 days). In contrast, bookings made by undefined distribution channel (23 days) and by groups (55 days) revealed the shortest lead times. 
 
-![Avg lead time](https://github.com/Irene-arch/Documenting_Example/assets/56026296/5ebedeb8-65e4-4f09-a2a5-0699119f5ff7)
+![Avg_lead_time](https://github.com/GraziCredidio/Splendor-Hotel-Groups/assets/104797916/ee77887a-ad65-44d2-a862-d8a19c6eab2b)
 
 
 ### 2. Customer behavior analysis
 - *Which distribution channel and customer type contribute the most to bookings and how does the average daily rate (ADR) differ across these?*
 
 More than half (62%) of the bookings were made through online travel agents, which is also true for all years separately. This distribution channel also shows the highest ADR (108 USD). This tendency can be due to the convenience and flexibility that online services have. Direct bookings had the second highest ADR (106 USD), however account for only 12% of the bookings volume. Transient customers are the most prominent in booking volume (75%) and display the highest ADR among other customer segments. 
+![Bookings_AvgADR](https://github.com/GraziCredidio/Splendor-Hotel-Groups/assets/104797916/f8f8b494-6c82-493d-a53a-8a038928ef82)
 
 - *Can we identify optimal pricing strategies based on the ADR?*
 
@@ -62,7 +63,7 @@ Given Portugal's dominance over the other countries in revenue and guest volume,
 
 Transient customers who made the booking online were responsible for the highest revenue loss. This was expected since they are also the highest contributors to booking numbers and revenue generation. Almost half of the bookings were made by contract clients who booked online (49%). Knowing that this customer segment accounts for approximately 2000 bookings (3.4%), the revenue loss is lower compared to the other customer types. A prominent proportion of bookings made by transient customers either online or offline (46% and 43%, respectively) were canceled, which explains the highest revenue loss being related to this guest type. 
 
-![Proportion of cancellations](https://github.com/Irene-arch/Documenting_Example/assets/56026296/5ebedeb8-65e4-4f09-a2a5-0699119f5ff7)
+![Cancellations_proportion](https://github.com/GraziCredidio/Splendor-Hotel-Groups/assets/104797916/3e405d55-f89a-4587-b85e-cad32c3b22dd)
 
 ### 3. Revenue trends
 - *What is the overall revenue trend?*
