@@ -1,6 +1,5 @@
 # Splendor Hotel Groups: Customer behavior and booking pattern analysis 
-data
-dashboard
+
 
 ## Table of Contents
 - [Project Overview](##Project-overview)
