@@ -13,11 +13,11 @@
 
 ## Project Overview
 
-This data analysis project aims to provide insights into the customer behavior and booking patterns of a Hotel Group over 5 years of operations. By analyzing this comprehensive dataset comprising guest demographics, distribution channels, details of bookings, and financial metrics, a deeper understanding of the company's performance was achieved and data-driven recommendations were made possible. A fully responsive and dynamic dashboard was constructed (please check the file "SHG_dashboard.xls") to support the decision-making process with key metrics. 
+This data analysis project aims to provide insights into the customer behavior and booking patterns of a Hotel Group over 5 years of operations. By analyzing this comprehensive dataset comprising guest demographics, distribution channels, details of bookings, and financial metrics, a deeper understanding of the company's performance was achieved and data-driven recommendations were made possible. **A fully responsive and dynamic dashboard was constructed (please check the file "SHG_dashboard.xlsx") to support the decision-making process with key metrics.** 
 
 
 ## Data sources
-The primary dataset used for this analysis is in the "SHG_data.csv" file. The "Data" Excel sheet inside the "SHG_dashboard.xls" file is the cleaned and manipulated dataset used for further analysis and dashboard construction. It contains detailed information about each booking made by the guests. This comprehensive dataset comprises of 119,391 rows and 21 columns after initial data cleaning and manipulation. If you need further explanations about entries and attributes, please refer to the "Data Dictionary" sheet in the "SHG_dashboard.xls" file. Additional sheets comprehend supporting pivot tables.
+The primary dataset used for this analysis is in the "SHG_data.xlsx" file. The "Data" Excel sheet inside the "SHG_dashboard.xlsx" file is the cleaned and manipulated dataset used for further analysis and dashboard construction. It contains detailed information about each booking made by the guests. This comprehensive dataset comprises of 119,391 rows and 21 columns after initial data cleaning and manipulation. If you need further explanations about entries and attributes, please refer to the "Data Dictionary" sheet in the "SHG_dashboard.xls" file. Additional sheets comprehend supporting pivot tables.
 
 ### Tools
 - Microsoft Excel: data cleaning, manipulation, EDA, and interactive dashboard construction
