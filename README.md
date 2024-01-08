@@ -13,7 +13,7 @@
 
 ## Project Overview
 
-This data analysis project aims to provide insights into the customer behavior and booking patterns of a Hotel Group over 5 years of operations. By analyzing this comprehensive dataset comprising guest demographics, distribution channels, details of bookings, and financial metrics, a deeper understanding of the company's performance was achieved and data-driven recommendations were made possible. **A fully responsive and dynamic dashboard was constructed (please check the file "SHG_dashboard.xlsx") to support the decision-making process with key metrics.** A screenshot of what dashboard looks like:
+This data analysis project aims to provide insights into the customer behavior and booking patterns of a Hotel Group over 5 years of operations. By analyzing this comprehensive dataset comprising guest demographics, distribution channels, details of bookings, and financial metrics, a deeper understanding of the company's performance was achieved and data-driven recommendations were made possible. **A fully responsive and dynamic dashboard was constructed (please check the file "SHG_dashboard.xlsx") to support the decision-making process with key metrics.** A screenshot of what the dashboard looks like:
 
 <img width="1241" alt="Dashboard_screenshot" src="https://github.com/GraziCredidio/Splendor-Hotel-Groups/assets/104797916/361c7176-62c6-4d1e-9892-c8c080e03bd9">
 
