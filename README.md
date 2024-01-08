@@ -13,7 +13,8 @@
 
 ## Project Overview
 
-This data analysis project aims to provide insights into the customer behavior and booking patterns of a Hotel Group over 5 years of operations. By analyzing this comprehensive dataset comprising guest demographics, distribution channels, details of bookings, and financial metrics, a deeper understanding of the company's performance was achieved and data-driven recommendations were made possible. **A fully responsive and dynamic dashboard was constructed (please check the file "SHG_dashboard.xlsx") to support the decision-making process with key metrics.** 
+This data analysis project aims to provide insights into the customer behavior and booking patterns of a Hotel Group over 5 years of operations. By analyzing this comprehensive dataset comprising guest demographics, distribution channels, details of bookings, and financial metrics, a deeper understanding of the company's performance was achieved and data-driven recommendations were made possible. **A fully responsive and dynamic dashboard was constructed (please check the file "SHG_dashboard.xlsx") to support the decision-making process with key metrics.** A screenshot of what dashboard looks like:
+
 
 
 ## Data sources
