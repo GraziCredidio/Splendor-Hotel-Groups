@@ -1,5 +1,4 @@
-# Splendor Hotel Groups: Customer behavior and booking pattern analysis 
-
+![hotel_github_title](https://github.com/GraziCredidio/Splendor-Hotel-Groups/assets/104797916/611f0b3f-4323-45e7-9678-c32ff845105d)
 
 ## Table of Contents
 - [Project Overview](##Project-overview)
